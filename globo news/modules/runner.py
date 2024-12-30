@@ -1,5 +1,10 @@
 from playwright.async_api import async_playwright
 import argparse, random, asyncio
+"""
+    Primeiras versões de códigos futuros, esse aqui é pra entender o que é necessário para trabalhar com certa visão 
+                                        utilizando automação de Browsers
+"""
+
 
 class initialize:
     def __init__(self):
